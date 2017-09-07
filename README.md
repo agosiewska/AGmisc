@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4qquwvfuv6vw30ct?svg=true)](https://ci.appveyor.com/project/agosiewska/agmisc)
+
 # AGmisc
 
 ## Miscellaneous functions from A. Gosiewska
